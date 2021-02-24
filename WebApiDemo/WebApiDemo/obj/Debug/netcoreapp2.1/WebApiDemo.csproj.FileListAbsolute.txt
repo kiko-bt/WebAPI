@@ -1,0 +1,17 @@
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\bin\Debug\netcoreapp2.1\WebApiDemo.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.RazorAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.RazorAssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.RazorTargetAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebApiDemo\WebApiDemo\obj\Debug\netcoreapp2.1\WebApiDemo.genruntimeconfig.cache

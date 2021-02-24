@@ -1,0 +1,17 @@
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\bin\Debug\netcoreapp2.1\appsettings.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\bin\Debug\netcoreapp2.1\Class03.RoutesBonus.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\bin\Debug\netcoreapp2.1\Class03.RoutesBonus.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\bin\Debug\netcoreapp2.1\Class03.RoutesBonus.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\bin\Debug\netcoreapp2.1\Class03.RoutesBonus.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\bin\Debug\netcoreapp2.1\Class03.RoutesBonus.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\obj\Debug\netcoreapp2.1\Class03.RoutesBonus.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\obj\Debug\netcoreapp2.1\Class03.RoutesBonus.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\obj\Debug\netcoreapp2.1\Class03.RoutesBonus.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\obj\Debug\netcoreapp2.1\Class03.RoutesBonus.RazorAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\obj\Debug\netcoreapp2.1\Class03.RoutesBonus.RazorAssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\obj\Debug\netcoreapp2.1\Class03.RoutesBonus.RazorTargetAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\obj\Debug\netcoreapp2.1\Class03.RoutesBonus.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\obj\Debug\netcoreapp2.1\Class03.RoutesBonus.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Class03.HandlingParameters\RoutesExtraExamples\Class03.EntityFramework\Class03.EntityFramework\obj\Debug\netcoreapp2.1\Class03.RoutesBonus.genruntimeconfig.cache

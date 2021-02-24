@@ -1,0 +1,11 @@
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\bin\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\bin\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\bin\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\bin\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\bin\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\obj\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\obj\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\obj\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\obj\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\obj\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\CLass04.EntityFramework\Class04.EntityFramework.DataModels\obj\Debug\netcoreapp2.1\Class04.EntityFramework.DataModels.genruntimeconfig.cache
