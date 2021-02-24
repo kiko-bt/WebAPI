@@ -1,0 +1,16 @@
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\bin\Debug\netcoreapp2.1\NoteApp.Services.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\bin\Debug\netcoreapp2.1\NoteApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\bin\Debug\netcoreapp2.1\NoteApp.Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\bin\Debug\netcoreapp2.1\NoteApp.DataAccess.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\bin\Debug\netcoreapp2.1\NoteApp.DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\bin\Debug\netcoreapp2.1\NoteApp.DataAccess.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\bin\Debug\netcoreapp2.1\NoteApp.DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\obj\Debug\netcoreapp2.1\NoteApp.Services.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\obj\Debug\netcoreapp2.1\NoteApp.Services.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\obj\Debug\netcoreapp2.1\NoteApp.Services.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\obj\Debug\netcoreapp2.1\NoteApp.Services.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\obj\Debug\netcoreapp2.1\NoteApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\obj\Debug\netcoreapp2.1\NoteApp.Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\bin\Debug\netcoreapp2.1\NoteApp.Models.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\bin\Debug\netcoreapp2.1\NoteApp.Models.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\NoteApp\NoteApp.Services\obj\Debug\netcoreapp2.1\NoteApp.Services.csproj.CoreCompileInputs.cache

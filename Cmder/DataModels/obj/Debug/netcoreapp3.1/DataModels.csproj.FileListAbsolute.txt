@@ -1,0 +1,45 @@
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\Models.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\Models.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.genruntimeconfig.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\Models.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\bin\Debug\netcoreapp3.1\Models.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataModels\obj\Debug\netcoreapp3.1\DataModels.genruntimeconfig.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\bin\Debug\netcoreapp3.1\DataModels.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\bin\Debug\netcoreapp3.1\DataModels.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\bin\Debug\netcoreapp3.1\DataModels.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\bin\Debug\netcoreapp3.1\DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\bin\Debug\netcoreapp3.1\DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\bin\Debug\netcoreapp3.1\Models.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\bin\Debug\netcoreapp3.1\Models.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\obj\Debug\netcoreapp3.1\DataModels.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\obj\Debug\netcoreapp3.1\DataModels.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\obj\Debug\netcoreapp3.1\DataModels.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\obj\Debug\netcoreapp3.1\DataModels.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\obj\Debug\netcoreapp3.1\DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\obj\Debug\netcoreapp3.1\DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataModels\obj\Debug\netcoreapp3.1\DataModels.genruntimeconfig.cache

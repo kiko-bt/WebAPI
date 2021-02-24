@@ -1,0 +1,27 @@
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\Les Jackson - RestAPI Course\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

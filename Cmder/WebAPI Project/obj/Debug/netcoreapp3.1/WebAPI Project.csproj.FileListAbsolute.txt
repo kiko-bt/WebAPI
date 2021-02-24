@@ -1,0 +1,218 @@
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.exe
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Models.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Services.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Models.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.MvcApplicationPartsAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI Project.StaticWebAssets.Manifest.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI Project.StaticWebAssets.xml
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI Project.styles.css
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.RazorTargetAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.genruntimeconfig.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander - RestAPI by Les Jackson\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\appsettings.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.exe
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.deps.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\DataModels.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Models.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Services.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Models.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\DataModels.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.MvcApplicationPartsAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI Project.StaticWebAssets.Manifest.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI Project.StaticWebAssets.xml
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI Project.styles.css
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.RazorTargetAssemblyInfo.cache
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.dll
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.pdb
+D:\PRACTICE MAKE PERFECT\C#\WebApi\WebAPI Project\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.genruntimeconfig.cache
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.exe
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.deps.json
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.runtimeconfig.json
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.runtimeconfig.dev.json
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\WebAPI Project.pdb
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\DataModels.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Services.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\Services.pdb
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\bin\Debug\netcoreapp3.1\DataModels.pdb
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.csprojAssemblyReference.cache
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI Project.StaticWebAssets.Manifest.cache
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI Project.StaticWebAssets.xml
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI Project.styles.css
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.RazorTargetAssemblyInfo.cache
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.csproj.CopyComplete
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.dll
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.pdb
+C:\Users\Hristijan\Desktop\Commander\Commander - RestAPI by Les Jackson\obj\Debug\netcoreapp3.1\WebAPI Project.genruntimeconfig.cache
